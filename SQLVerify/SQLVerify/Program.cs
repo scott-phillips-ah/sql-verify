@@ -7,8 +7,6 @@ namespace SQLVerify
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
-            var a = Antlr4
         }
     }
 }
